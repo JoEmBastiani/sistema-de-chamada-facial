@@ -28,7 +28,7 @@ Sistema web completo para automatizar a chamada de alunos usando reconhecimento 
 ### 1. Clone o repositório
 
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/JoEmBastiani/sistema-de-chamada-facial.git
 cd facial-attendance-system
 ```
 
